@@ -1,7 +1,7 @@
 <h1 align="center">👩‍💻 João Victor</h1>
 
 <p align="center">
-  <strong>Desenvolvedora FullStack • Estudante de Ciência da Computação</strong>
+  <strong>Desenvolvedor FullStack • Estudante de Ciência da Computação</strong>
 </p>
 
 <p align="center">
@@ -55,10 +55,6 @@ Projeto de lógica com interface no terminal, desenvolvido para praticar program
 ---
 
 🤝 Conecte-se comigo
-<p align="left">
-  <a href="https://github.com/Iasmim-Nunes" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/iasmim-gabrielli-nunes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
 
 ---
 
